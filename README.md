@@ -1,6 +1,6 @@
 # Google-Merchandise-Store-Analytics
 
-Determined 5 business problems using Google Merchandised data of 16000 observations and developed dashboards and performed analysis to solve the business problems using Google Analytics and Tableau
+Analyzed Google Merchandise store data to gain insights about the store performance. Utilized Tableau to perform the analysis
 
 The dashboards can be found at the below location
 
